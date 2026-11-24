@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /appolonia/keys/
+Disallow: /appolonia/scripts/
+Disallow: /ulga/scripts/
+
+Sitemap: https://zavattaro.github.io/sitemap.xml
+Sitemap: https://zavattaro.github.io/appolonia/site/sitemap.xml
+Sitemap: https://zavattaro.github.io/ulga/site/sitemap.xml
